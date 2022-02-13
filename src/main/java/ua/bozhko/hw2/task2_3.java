@@ -5,7 +5,7 @@ public class task2_3 {
 Метод будет выводить на экран меньшее по модулю из трёх переданных в метод вещественных чисел.
 Для вычисления модуля используйте тернарную операцию. */
     public static void main(String[] args) {
-        min(3, 7, 2);
+        min(-3, 7, -2);
     }
 
     public static void min(int a, int b, int c) {
